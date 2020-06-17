@@ -26,4 +26,4 @@ You must enter either a school and/or a subject in order for the script to retur
 Features I'd like to incorporate at some point include:
 
  - [ ] Calculate median and average GPAs and GRE scores
- - [ ] Incorporate the excellent scraping work done over at [deedy/gradcafe_data](deedy/gradcafe_data)
+ - [ ] Incorporate the excellent scraping work done over at [deedy/gradcafe_data](https://github.com/deedy/gradcafe_data)
