@@ -1,4 +1,4 @@
-# GradCafe Analyzer 🌟
+# GradCafe Analyzer 👋🏽
 
 A small foray into analyzing the user-submitted admissions data over at https://www.thegradcafe.com/survey/index.php.
 
